@@ -1,0 +1,6 @@
+Link to Github Page: 
+https://nextgen73.github.io/DataVisualizationAssignment3/
+
+Comparison of adjacency matrix to node-link diagram:
+Nodes with few links, e.g. 1 link, are visible in the node-link diagram
+Cliques and clusters are visible in the adjacency matrix
