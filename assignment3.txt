@@ -1,5 +1,7 @@
 Link to Github Page: 
 https://nextgen73.github.io/DataVisualizationAssignment3/
+Link to Github:
+https://github.com/NextGen73/DataVisualizationAssignment3
 
 Comparison of adjacency matrix to node-link diagram:
 Nodes with few links, e.g. 1 link, are visible in the node-link diagram
