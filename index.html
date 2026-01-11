@@ -6,17 +6,24 @@
 
     <div id="visualization-container"></div>
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+     integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+     crossorigin=""/>
 
 </head>
 
 <body>
 
-<!-- YOUR SOLUTION GOES HERE-->
+<button id="changeMode"><p>Change mode</p></button>
+<!-- <div id="tooltip"></div> -->
 
 <!-- note: d3 version 7.9.0 this time! -->
 <script src="libs/d3.v7.min.js"></script>
 <script src="force.js"></script>
 <script src="main.js"></script>
-
+<!-- Make sure you put this AFTER Leaflet's CSS -->
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+     integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+     crossorigin=""></script>
 </body>
 </html>
